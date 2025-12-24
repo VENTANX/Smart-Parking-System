@@ -1,0 +1,7 @@
+opencv-python
+numpy
+PyQt5
+ultralytics
+paddlepaddle
+paddleocr
+carla
